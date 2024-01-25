@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,MDR Thüringen
+https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/master.m3u8
 #EXTINF:-1,ARD
 https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:-1,ARD ONE
