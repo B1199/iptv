@@ -49,7 +49,7 @@ https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
 #EXTINF:-1,DW
 https://dwamdstream111.akamaized.net/hls/live/2017972/dwstream111/index.m3u8
-#EXTINF:-1,WDR (weltweit)
+#EXTINF:-1,WDR ok
 https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8
 #EXTINF:-1,WDR Lokalzeit Münsterland
 https://wdrlokalzeit.akamaized.net/hls/live/2018025/wdrlz_muensterland/index.m3u8
