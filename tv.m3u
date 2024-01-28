@@ -3,17 +3,17 @@
 https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/master.m3u8
 #EXTINF:-1,ARD ok
 https://mcdn.daserste.de/daserste/de/master.m3u8
-#EXTINF:-1,ARD ONE
+#EXTINF:-1,ARD ONE ok
 https://mcdn.one.ard.de/ardone/hls/master.m3u8
-#EXTINF:-1,ARD Alpha
+#EXTINF:-1,ARD Alpha kann weg
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
-#EXTINF:-1,ARD Tagesschau
+#EXTINF:-1,ARD Tagesschau ok
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTINF:-1,ZDF
+#EXTINF:-1,ZDF no
 http://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
-#EXTINF:-1,ZDF neo
+#EXTINF:-1,ZDF neo no
 http://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
-#EXTINF:-1,ZDF info
+#EXTINF:-1,ZDF info 
 http://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
 #EXTINF:-1,MDR Sachsen
 https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
@@ -75,19 +75,9 @@ https://wdrlokalzeit.akamaized.net/hls/live/2023550/wdrlz_koeln/index.m3u8
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
 #EXTINF:-1,WDR Lokalzeit Bergisches Land
 https://wdrlokalzeit.akamaized.net/hls/live/2018028/wdrlz_wuppertal/index.m3u8
-#EXTINF:-1,ARTE FR
+#EXTINF:-1,ARTE FR ok
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1,ARTE DE
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
-#EXTINF:-1,3Sat
+#EXTINF:-1,3Sat no
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
-#EXTINF:-1,kika
-https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
-#EXTINF:-1,ORF-2
-https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest.m3u8
-#EXTINF:-1,ORF-1
-https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest.m3u8
-#EXTINF:-1,ORF-3
-https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8
-#EXTINF:-1,ORF-Sport
-https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
