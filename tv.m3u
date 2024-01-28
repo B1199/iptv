@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1,MDR Thüringen
+#EXTINF:-1,MDR Thüringen ok
 https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/master.m3u8
-#EXTINF:-1,ARD
+#EXTINF:-1,ARD ok
 https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:-1,ARD ONE
 https://mcdn.one.ard.de/ardone/hls/master.m3u8
@@ -23,7 +23,7 @@ https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/master.m3u8
 https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/master.m3u8
 #EXTINF:-1,PHOENIX
 http://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
-#EXTINF:-1,RBB Berlin
+#EXTINF:-1,RBB Berlin ok
 https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
 #EXTINF:-1,RBB Brandenburg
 https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
