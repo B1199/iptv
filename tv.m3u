@@ -1,12 +1,14 @@
 #EXTM3U
 #EXTINF:-1,MDR Thüringen ok
 https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/master.m3u8
-#EXTINF:-1,MDR Thüringen HD
-https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/index.m3u8
-#EXTINF:-1,ZDF HD
-https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
+#EXTINF:-1,NDR MV
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
+#EXTINF:-1,RBB Berlin ok
+https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
 #EXTINF:-1,ARD ok
 https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:-1,ZDF HD
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 #EXTINF:-1,ARD ONE ok
 https://mcdn.one.ard.de/ardone/hls/master.m3u8
 #EXTINF:-1,ARD Tagesschau ok
@@ -19,8 +21,6 @@ https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
 http://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
 #EXTINF:-1,RBB Berlin ok
 https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
-#EXTINF:-1,NDR Mecklenburg-Vorpommern
-https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
 #EXTINF:-1,WDR ok
 https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8
 #EXTINF:-1,ARTE DE ok
