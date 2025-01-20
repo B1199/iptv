@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1,MDR Thüringen ok
+#EXTINF:-1,MDR Thüringen 20-1-25
 https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/master.m3u8
-#EXTINF:-1,NDR MV
+#EXTINF:-1,NDR 20-1-25
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
-#EXTINF:-1,RBB Berlin ok
+#EXTINF:-1,RBB Berlin 20-1-25
 https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
 #EXTINF:-1,ARD 20-1-25
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
-#EXTINF:-1,ZDF HD
+#EXTINF:-1,ZDF 20-1-25
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 #EXTINF:-1,ARD ONE ok
 https://mcdn.one.ard.de/ardone/hls/master.m3u8
